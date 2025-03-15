@@ -1,3 +1,5 @@
+altair                    5.5.0
+attrs                     25.3.0
 blinker                   1.9.0
 cachetools                5.5.2
 certifi                   2025.1.31
@@ -35,7 +37,7 @@ scipy                     1.15.2
 seaborn                   0.13.2
 six                       1.17.0
 smmap                     5.0.2
-streamlit                 1.43.1
+streamlit                 1.43.2
 tenacity                  9.0.0
 toml                      0.10.2
 tornado                   6.4.2
